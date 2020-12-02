@@ -1,0 +1,27 @@
+*{margin:0;
+padding:0;}
+
+
+body{font-family: 'Texturina', serif;}
+
+.hlogo img{width:100px;}
+
+.hmenu a{color:white;}
+
+.card img{width:30%;}
+
+.badge span{font-size:10px;}
+
+.card-body a{font-size:1rem; color:white;}
+
+.carousel-caption h5{color:rgb(18,246,239); font-size:40px;}
+
+.carousel-caption p{color:rgb(18,246,239); font-size:30px;}
+
+.dropdown-menu a{color:white;}
+
+.alert a{font-size:25px;}
+
+.fmenu a{color:white;}
+
+.flogo img{width:100px;}
